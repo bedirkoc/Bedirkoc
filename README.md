@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/bedirhan-ko%C3%A7-604618201/" target="blank"><img  src="https://img.shields.io/badge/LINKEDIN%20-DC3175.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 </p>
+
 ### Spotify Playing 🎧
 
 [<img src="https://novatorem.bedirkoc.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/v5jmm4y3ceassy5cc3ps151bp)
