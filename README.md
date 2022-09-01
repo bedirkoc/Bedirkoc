@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<
+
 [<img align="left" alt="bedirkoc | Instagram" width="44px" src="https://i.ibb.co/tz8skHM/icons8-instagram-48.png" />](https://www.instagram.com/bbedirkoc/)
 
 <br />
