@@ -16,6 +16,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Bedirkoc&show_icons=true&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirkoc&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=Bedirkoc&theme=nord" width="%100" height="150px" alt="stats" />
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Bedirkoc&theme=onedark" /></p>
 <a  align="right" href="https://github.com/Bedirkoc"><img alt="Bedirkoc CONTRIBUTION' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Bedirkoc&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> <br>
 </details>
 
