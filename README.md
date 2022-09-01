@@ -4,7 +4,6 @@
 <h3 align="center" style="color:#e63946;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);">My Accounts</h3>
 <p align="center">
 <a href="https://github.com/bedirkoc" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="https://steamcommunity.com/id/Chavones/" target"blank_"><img src="https://img.shields.io/badge/steam%20-171a21.svg?&style=for-the-badge&logo=steam&logoColor=white"></a>
 <a href="https://open.spotify.com/user/v5jmm4y3ceassy5cc3ps151bp" target"blank_"><img src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 <a href="https://www.instagram.com/bbedirkoc/" target"blank_"><img src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/bedirhan-ko%C3%A7-604618201/" target="blank"><img  src="https://img.shields.io/badge/LINKEDIN%20-DC3175.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -31,4 +30,3 @@
 </details>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bedirkoc&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
- 
