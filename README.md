@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem.bedirkoc.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/v5jmm4y3ceassy5cc3ps151bp)
+[<img src="https://novatorem.bedirkoc.vercel.app/api/spotify-playing"  width="350" />](https://open.spotify.com/user/v5jmm4y3ceassy5cc3ps151bp)
 
 
 <details align="center">
