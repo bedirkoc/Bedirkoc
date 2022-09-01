@@ -17,6 +17,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bedirkoc&layout=compact&theme=tokyonight" width="%100" height="150px" alt="stats" />
 <img src="https://github-profile-trophy.vercel.app/?username=Bedirkoc&theme=nord" width="%100" height="150px" alt="stats" />
 </details>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Bedirkoc&label=Profile%20views&color=0e75b6&style=flat"  /> </p>
 
 <details align="center">
   <summary style="font-weight: bold; font-size: 18px">My Interests</summary>
