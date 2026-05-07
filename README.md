@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋! My name is Bedirhan and I'm a Full Stack WEB Developer, from Turkey.</h2>
+<h2 align="center">Hi 👋! I'm Bedirhan and I'm a Full Stack WEB Developer, from Turkey.</h2>
 
 ###
 
